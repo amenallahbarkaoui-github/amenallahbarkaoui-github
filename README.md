@@ -7,9 +7,6 @@ I'm Amen, a multifaceted developer passionate about creating innovative, user-ce
 - Specializations: Android, Web, and Backend development
 - Languages/Frameworks: Java, Kotlin, React, Flask, Python, Node.js
 
-🎨 UI/UX Designer
-- Crafting intuitive and aesthetically pleasing interfaces
-- Tools: Figma, Adobe XD, Sketch
 
 🖥️ Backend Developer
 - Expertise: Flask, Python, Django
@@ -43,8 +40,6 @@ Flask, Django, Node.js
 Database:
 MySQL, PostgreSQL, MongoDB
 
-UI/UX:
-Figma, Adobe XD, Sketch
 
 DevOps:
 Docker, Kubernetes, CI/CD pipelines
