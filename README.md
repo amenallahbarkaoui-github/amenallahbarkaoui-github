@@ -2,7 +2,7 @@
 
 # Amen Barkaoui
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=58A6FF&background=00000000&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;Backend+Developer;Web+%26+Android+Development;AI+%26+Security+Enthusiast" alt="Cybersecurity Researcher, Backend Developer, Web and Android Development, Agentic AI Builder" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=58A6FF&background=00000000&center=true&vCenter=true&width=720&lines=Cybersecurity -Researcher;Backend+Developer;Web+%26+Android+Development;AI+%26+Security+Enthusiast" alt="Cybersecurity Researcher, Backend Developer, Web and Android Development, Agentic AI Builder" />
 
 Building thoughtful applications, reliable backends and practical solutions.
 
@@ -24,9 +24,9 @@ Building thoughtful applications, reliable backends and practical solutions.
 
 ### About me
 
-I'm **Amen**, a developer working across web, Android and backend development. I enjoy turning ideas into useful applications, building efficient services and exploring how AI and security can make software better.
+I'm **Amen**, Agentic Cybersecurity, Android and backend development. I enjoy turning ideas into useful applications, building efficient services and exploring how AI and security can make software better.
 
-- **Full-stack development:** web applications and native Android experiences.
+- **Web/Android development:** web applications and native Android experiences.
 - **Backend engineering:** efficient, scalable systems with Python, Flask, Django and Node.js.
 - **AI & security:** machine learning, security patch testing and robust application design.
 
@@ -41,7 +41,6 @@ I'm **Amen**, a developer working across web, Android and backend development. I
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
 </p>
 
 <h4>Web &amp; Mobile</h4>
