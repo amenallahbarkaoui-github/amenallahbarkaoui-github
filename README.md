@@ -2,7 +2,7 @@
 
 # Amen Barkaoui
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=58A6FF&background=00000000&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;Backend+Developer;Web+%26+Android+Development;AI+%26+Security+Enthusiast" alt="Full-Stack Developer, Backend Developer, Web and Android Development, AI and Security Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&color=58A6FF&background=00000000&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;Backend+Developer;Web+%26+Android+Development;AI+%26+Security+Enthusiast" alt="Cybersecurity Researcher, Backend Developer, Web and Android Development, Agentic AI Builder" />
 
 Building thoughtful applications, reliable backends and practical solutions.
 
